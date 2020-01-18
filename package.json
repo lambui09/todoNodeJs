@@ -1,0 +1,21 @@
+{
+  "name": "todonodejs",
+  "version": "1.0.0",
+  "description": "study nodejs,",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambui09/todoNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambui09/todoNodeJs/issues"
+  },
+  "homepage": "https://github.com/lambui09/todoNodeJs#readme"
+}
